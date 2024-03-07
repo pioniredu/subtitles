@@ -1095,1122 +1095,1119 @@
 
 220
 00:16:42,680 --> 00:16:46,920
-античкој филозофији, део тога је 
-био покушај објашњавања света пре
+филозофији. Део тога је био
+покушај да се објасни свет пре
 
 221
 00:16:46,920 --> 00:16:51,519
-discovery of genes and before Newtonian
-physics around Newton's time things
+открића гена и пре Њутнове
+физике. За време Њутна, ствари
 
 222
 00:16:51,519 --> 00:16:56,079
-started to sharpen and become less
-mystical but even that was a slow
+су почеле да буду јасније и мање
+мистичне, али чак je и тад промена била
 
 223
 00:16:56,079 --> 00:17:01,720
-gradual change so Western philosophy was
-differential to Aristotle and Plato for
+спора. Западна филозофија
+је поштовала Аристотела и Платона
 
 224
 00:17:01,720 --> 00:17:06,319
-some 2,000 years after their time as a
-result the notion of essence was an
+и 2000 година после њиховог времена. 
+Као резултат, појам суштине постао је
 
 225
 00:17:06,319 --> 00:17:11,559
-intimate part of every Western
-philosophy subsequent to Aristotle until
+интегрални део целе западне 
+филозофије после Аристотела
 
 226
 00:17:11,559 --> 00:17:17,520
-we came to Modern Times gor Hegel
-writing in early 1800s Prussia was in
+све до савременог доба. Георг Хегел
+који је писао у раним 1800-им у Пруској
 
 227
 00:17:17,520 --> 00:17:22,640
-that sense a pre-modern thinker he took
-Aristotle's notion of essence and
+сматрао се премодерним мислиоцем, 
+преузео је Аристотелов појам суштине
 
 228
 00:17:22,640 --> 00:17:26,919
-applied it to history he wanted to
-answer the question what is the ultimate
+и применио га на историју. Желео је 
+да одговори на питање шта је коначни 
 
 229
 00:17:26,919 --> 00:17:32,960
-design of the world and he answered that
-due to these hidden undeveloped Essences
+дизајн света и одговорио је да је због 
+ових сакривених неразвијених суштина
 
 230
 00:17:32,960 --> 00:17:38,880
-the world had a principle it had a plan
-of existence a law and that law was a
+свет имао принцип, имао је 
+план постојања, закон и тај закон
 
 231
 00:17:38,880 --> 00:17:44,440
-law of historical progress a progression
-from the imperfect towards the more
+је био закон историјског напретка. 
+Напредак од несавршеног ка савршенијем
 
 232
 00:17:44,440 --> 00:17:49,320
-perfect as evidence he pointed to the
-spreading of Freedom over time and
+Као доказ указао је на ширење 
+слободе током времена и
 
 233
 00:17:49,320 --> 00:17:53,760
-pointed to the Prussian monarchy where
-he lived as a place where all had
+и указивао на Пруску монархију, 
+где је и живео, као место где су сви
 
 234
 00:17:53,760 --> 00:17:58,000
-finally achieved Freedom it's a
-redefinition of the word Freedom so if
+коначно постигли слободу. То је 
+редефинисање речи слобода, па ако
 
 235
 00:17:58,000 --> 00:18:01,200
-that was confusing to you I wouldn't
-lose sleep over it the point is that
+је то збуњујуће за тебе, не бих 
+се много бринуо. Поента је у томе
 
 236
 00:18:01,200 --> 00:18:04,720
-Hegel thought that these hidden
-undeveloped Essences brought an
+да је Хегел кроз тај сакривени 
+неразвијени појам суштине донео
 
 237
 00:18:04,720 --> 00:18:09,320
-inexorable logic to the history of the
-world and that was to make it move over
+неумољиву логику у историју света и да би 
+то требало да га натера да се помери
 
 238
 00:18:09,320 --> 00:18:14,919
-time towards this increasing Perfection
-and for Hegel this was both an ethical
+временом ка овом савршенству,
+а за Хегела је ово било и етичко
 
 239
 00:18:14,919 --> 00:18:19,159
-and a logical Perfection Hegel thought
-that the spirit of nations were
+и логично савршенство. Хегел
+је веровао да је дух нације
 
 240
 00:18:19,159 --> 00:18:23,960
-ultimately the drivers of History they
-drove history forward so hegel's
+главни покретач промене у историји. 
+Водио је историју напред. Хегелова
 
 241
 00:18:23,960 --> 00:18:29,240
-philosophy was ultimately nationalist
-Marx grew up studying Hegel so he wanted
+филозофија је била националистичка.
+Маркс, који је одрастао учећи од Хегела
 
 242
 00:18:29,240 --> 00:18:34,320
-to take hegel's ideas and place them in
-an updated socialist context during
+преузео је његове идеје и применио их 
+у модерном социјалистичком контексту.
 
 243
 00:18:34,320 --> 00:18:38,600
-Marx's time Enlightenment values were
-spreading and hegel's idea that the
+Током Марксовог времена просветитељске 
+вредности су се шириле, а Хегелова идеја
 
 244
 00:18:38,600 --> 00:18:43,320
-world was driven forward by Spirit was
-too mystical for Marx so he preferred to
+да је свет напред вођен духом била је 
+превише мистична за Маркса, па је преферирао
 
 245
 00:18:43,320 --> 00:18:47,960
-base his theory in matter literally
-physical stuff specifically physical
+да базира теорију на материји, дословно 
+физичкој ствари. Специфична физичка
 
 246
 00:18:47,960 --> 00:18:51,880
-stuff that relates to the economy and
-our ability to provide for ourselves
+ствар која је повезана са економијом и
+нашом способношћу да обезбедимо себи
 
 247
 00:18:51,880 --> 00:18:57,320
-like land and coal and machines so Marx
-called those material conditions and
+земљу, угаљ, машине. Маркс је
+то називао материјални услови
 
 248
 00:18:57,320 --> 00:19:01,520
-believed that they determined deted the
-kind of economy we have as he put it the
+и веровао да они одређују врсту
+економије коју имамо. Говорио је
 
 249
 00:19:01,520 --> 00:19:06,280
-windmill gives you Society with the
-feudal Lord the steam Mill Society with
+"Ветрењача вам даје феудално
+друштво; парни млин вам даје
 
 250
 00:19:06,280 --> 00:19:10,159
-the industrial capitalist you can call
-the type of economy we have like a
+индустријско капиталистичко друштво. 
+Садашњу економију можеш да назовеш
 
 251
 00:19:10,159 --> 00:19:14,520
-capitalist one our mode of production
-and then Mark says the mode of
+капиталистичком. Наш начин производње. 
+Онда Маркс каже начин производње
 
 252
 00:19:14,520 --> 00:19:19,360
-production in material life determines
-the general character of the social
+одређује општи карактер друштвеног
 
 253
 00:19:19,360 --> 00:19:24,679
-political and spiritual processes of
-life so for Marx everything stems from
+политичког и духовног процеса
+живота. За Маркса све креће од
 
 254
 00:19:24,679 --> 00:19:28,960
-Material conditions the material
-conditions create capitalism and from
+материјалних услова. Материјални
+услови креирају капитализам и одатле
 
 255
 00:19:28,960 --> 00:19:34,960
-there you have the way we think our
-culture our law politics Society so as
+имамо правац размишљања о нашој
+култури, закону, политици, друштву.
 
 256
 00:19:34,960 --> 00:19:39,000
-material conditions change society
-changes along with them unlike Adam
+Како се мењају материјални услови тако се 
+мења друштво са њима. За разлику од Адама
 
 257
 00:19:39,000 --> 00:19:44,400
-Smith who saw capitalism as bringing
-people together into voluntary and
+Смита који је видео капитализам као 
+повезивање људи у волонтерске и
 
 258
 00:19:44,400 --> 00:19:49,159
-mutually beneficial relationships Carl
-Marx saw antagonism when he looked at
+узајамно корисне односе, Карл
+Маркс је видео непријатељство у
 
 259
 00:19:49,159 --> 00:19:55,080
-capitalism he saw involuntary labor and
-class conflict lower class people had to
+капитализму. Видео је принудни рад
+и класни конфликт. Ниже класе су морале
 
 260
 00:19:55,080 --> 00:19:59,159
-work if they didn't they would starve if
-you asked workers ERS how much they
+да раде, да нису гладовале би.
+Ако питаш раднике колико би
 
 261
 00:19:59,159 --> 00:20:03,640
-wanted to be paid their answer would be
-as much as possible but if you asked
+волели да буду плаћени, њихов одговор
+би био што више, али ако питаш
 
 262
 00:20:03,640 --> 00:20:08,039
-bosses how much they should pay the
-workers the bosses would answer as
+шефове колико треба да
+плате раднике, рећи ће што
 
 263
 00:20:08,039 --> 00:20:11,840
-little as possible also if you ask these
-bosses how hard they should work these
+је мање могуће. Такође ако
+питате колико тешко треба да раде
 
 264
 00:20:11,840 --> 00:20:16,400
-workers the answer would be as hard as
-possible after all they had other
+ови радници, одговор би био што је 
+теже могуће. Након свега, они имају друге
 
 265
 00:20:16,400 --> 00:20:20,760
-businesses to compete with Marx like
-Hegel believed that history was
+конкуренте. Маркс, као и Хегел
+ је веровао у историјски
 
 266
 00:20:20,760 --> 00:20:25,200
-Progressive and he believed that class
-conflict drove that historical
+напредак и веровао да ће
+класни конфликт довести до тога.
 
 267
 00:20:25,200 --> 00:20:30,240
-progression so classes were for Marks
-what nations were for Hegel as Marx
+Тако да су класе за Маркса
+биле  оно што су нације за Хегела.
 
 268
 00:20:30,240 --> 00:20:35,799
-wrote the history of all hitherto
-existing Society is the history of class
+Као што је Маркс написао:  Историја свих 
+досадашњих друштава је историја класне
 
 269
 00:20:35,799 --> 00:20:41,480
-struggles Freeman and slave Patrician
-and plebian Lord and Surf guildmaster
+борбе. Слободни и робови, патрицији и 
+плебејци, господар и кмет, занатлија
 
 270
 00:20:41,480 --> 00:20:46,559
-and journeyman in a word oppressor and
-oppressed stood in constant opposition
+и шегрт, у свету тлачитеља и
+потлачених  стоје у сталној опозицији
 
 271
 00:20:46,559 --> 00:20:52,159
-to one another carried on an
-uninterrupted Now hidden now open fight
+један наспрам другог у непрекидној, 
+час сакривеној, час отвореној борби
 
 272
 00:20:52,159 --> 00:20:56,600
-a fight that each time ended either in a
-revolutionary reconstitution of society
+борба која се сваки пут завршила или 
+револуционарном реконструкцијом друштва
 
 273
 00:20:56,600 --> 00:21:01,880
-at large or in the common ruin of the
-contending classes when one class wins a
+или у заједничком паду супротстављених 
+класа. Када једна класа победи
 
 274
 00:21:01,880 --> 00:21:05,840
-class struggle according to this Theory
-a new Society is created so when
+у класној борби, према овој теорији,
+настаје ново друштво. Када
 
 275
 00:21:05,840 --> 00:21:11,120
-middleclass Journeymen won power against
-Guild Masters and implemented modern
+шегт из средње класе надјача
+занатлију  и спроведе савремена
 
 276
 00:21:11,120 --> 00:21:16,000
-property rights feudalism ended and
-capitalism began and again he argued
+права својине, феудализам пропада, 
+а капитализам почиње. Он поново тврди да је
 
 277
 00:21:16,000 --> 00:21:20,640
-that the underlying Force here is
-changing material conditions he argued
+основна сила, промена
+ материјалних услова која указује
 
 278
 00:21:20,640 --> 00:21:24,720
-that it was time for feudalism to go
-Marx believed that the new societies
+да је време да федуализам нестане.
+Маркс је веровао да су нове друштвене
 
 279
 00:21:24,720 --> 00:21:29,159
-were preferable to the ones that came
-before for example he credits the
+структуре пожељније од оних које су 
+претходиле. На пример, заслуга
 
 280
 00:21:29,159 --> 00:21:33,679
-Bourgeois who are the property owning
-class in capitalism with creating
+буржоазије, власничке
+класе у капитализму, је стварање
 
 281
 00:21:33,679 --> 00:21:38,279
-enormous cities which greatly increased
-the urban population as compared with
+огромних градова, који су знатно
+повећали урбано становништво у поређењу
 
 282
 00:21:38,279 --> 00:21:42,799
-the rural and thus rescued a
-considerable part of the population from
+са руралним и тако спасили
+значајан део популације од
 
 283
 00:21:42,799 --> 00:21:47,799
-the idiocy of rural life but Marx still
-fundamentally condemned the capitalism
+беде сеоског живота. Међутим, 
+Маркс суштински осуђује комунизам
 
 284
 00:21:47,799 --> 00:21:51,640
-of his time and the society that came
-along with it this was a time when
+из свог времена и друштво које је
+с њим дошло. Ово је било време када
 
 285
 00:21:51,640 --> 00:21:56,799
-capitalism was mostly unregulated so he
-had child labor and you had longer hours
+је капитализам углавном био
+нерегулисан. Дечији рад, дужи радни сати
 
 286
 00:21:56,799 --> 00:22:01,640
-and low pay and and dangerous conditions
-the lowest paid workers at the time were
+ниске плате и опасни услови рада.
+Најмање плаћени радници у то време
 
 287
 00:22:01,640 --> 00:22:04,840
-working for subsistence wages which
-means that they were barely making
+су радили за надницу, која
+ је једва  била довољна
 
 288
 00:22:04,840 --> 00:22:08,120
-enough to be able to feed themselves
-Marx didn't leave his feelings about
+да прехране себе. Маркс се
+није препустио осећањима да тумачи
 
 289
 00:22:08,120 --> 00:22:12,440
-these things up for interpretation he
-found it morally horrifying he pointed
+о овим стварима. Сматрао је то
+морално ужасавајућим. Указивао је
 
 290
 00:22:12,440 --> 00:22:16,559
-out average life expectancies for the
-working class around Urban England where
+на просечну, очекивану дужину живота 
+радничке класе у урбаним деловима Енглеске
 
 291
 00:22:16,559 --> 00:22:22,080
-he did most of his writing in Manchester
-it was 17 years in Liverpool it was just
+где је већи део својих списа написао. 
+У Манчестеру је била 17 година, у Ливерполу
 
 292
 00:22:22,080 --> 00:22:27,240
-15 he believed that the problem was the
-legal right to own private property by
+само 15.  Веровао је да је проблем у
+законском праву на приватну својину
 
 293
 00:22:27,240 --> 00:22:31,720
-that he mostly meant property relating
-to Industry so it could be factories
+а под тим је углавном мислио на власништво 
+везано за индустрију. То могу бити фабрике
 
 294
 00:22:31,720 --> 00:22:34,919
-could be machines could be products
-coming out of a company or the
+могу бити машине, или производи
+неке компаније или интелектуално
 
 295
 00:22:34,919 --> 00:22:38,919
-intellectual property of a company
-itself so private property for Marks is
+добро саме компаније. Дакле
+приватна својина, према Марксу
 
 296
 00:22:38,919 --> 00:22:44,600
-mostly property relating to Industry and
-in his analysis he broke capitalist
+односи се на својину над производним 
+средствима. У својој анализи он је поделио
 
 297
 00:22:44,600 --> 00:22:50,200
-societies down into two main classes you
-had the bisi who owned private property
+капиталистичка друштва на две класе. 
+Бружоазију која је поседовала приватну
 
 298
 00:22:50,200 --> 00:22:54,559
-and you had the proletariat who were
-propertyless industrial workers he
+имовину и пролетеријат, 
+индустријске раднике без имовине.
 
 299
 00:22:54,559 --> 00:22:58,480
-thought the right to own private
-property gave the bourgeois Supreme
+Сматрао је да право на приватну
+својину даје буржоазији апсолутну
 
 300
 00:22:58,480 --> 00:23:03,039
-political power in capitalist societies
-making them the ruling class what we
+политичку моћ у капиталистичким друштвима, 
+чинећи их владајућом класом. Оно
 
 301
 00:23:03,039 --> 00:23:08,159
-would normally call liberal Society to
-him was Bourgeois Society so he thought
+што бисмо назвали либералним друштвом, 
+то је за њега била буржоазија. Сматрао је
 
 302
 00:23:08,159 --> 00:23:13,480
-the law morality and religion coming
-from capitalist societies reflected
+да закон, морал и религија који долазе 
+из капиталистичких друштава одражавају
 
 303
 00:23:13,480 --> 00:23:18,320
-Bourgeois prejudices and Bourgeois
-interests it's not clear how aware Marx
+предрасуде и интересе буржоазије.
+Није јасно како је Маркс био свестан
 
 304
 00:23:18,320 --> 00:23:22,400
-was of the implications of this next
-part but he crucially took an idea of
+импликације овога,
+али је прихватио кључну идеју
 
 305
 00:23:22,400 --> 00:23:28,000
-Hegel and applied it to his theory and
-that's hegel's idea that due to a hidden
+Хегела и применио је на своју
+теорију, а то је идеја да кроз сакривену
 
 306
 00:23:28,000 --> 00:23:34,200
-developed Essence human societies had a
-law of historical development like Hegel
+неразвијену суштину, људска друштава 
+имају закон историјског развоја. Као и Хегел
 
 307
 00:23:34,200 --> 00:23:39,120
-he believed Society was inexorably
-moving towards an increasing Perfection
+он је веровао да се друштво
+неумитно креће ка све већем савршенству
 
 308
 00:23:39,120 --> 00:23:44,039
-and also like Hegel this was both an
-ethical and a logical Perfection he said
+и исто као Хегелу, ово је била етичка
+ и логичка савршеност. Маркс је рекао
 
 309
 00:23:44,039 --> 00:23:48,159
-if the conflict hinges on the right to
-own private property and if the people
+ако конфликт зависи од права на
+приватну својину и ако број људи
 
 310
 00:23:48,159 --> 00:23:52,880
-without property far outnumber the
-people with property then the solution
+без власништва далеко премашују
+оне са власништвом, онда је решење
 
 311
 00:23:52,880 --> 00:23:57,480
-is for the propertyless masses to
-realize their common oppression than to
+да безвласничке масе схвате
+своју заједничку опресију, да се удруже
 
 312
 00:23:57,480 --> 00:24:03,159
-ban together rise up seize power and
-Implement a new Society a communist
+устану, преузму власт и имплементирају
+нову друштвену форму - Комунистичко
 
 313
 00:24:03,159 --> 00:24:07,120
-Society where the right to own private
-property is abolished which he thought
+друштво, у којем је право на приватну
+својину укинуто. Мислио је
 
 314
 00:24:07,120 --> 00:24:11,559
-would finally break the historical Saga
-of class Conflict by being the first
+да ће то напокон прекинути историјску
+сагу класног сукоба, тиме што ће бити прво
 
 315
 00:24:11,559 --> 00:24:17,159
-Society without class conflict as he
-wrote in his 20s communism is the riddle
+друштво без класне борбе. У својим 
+двадесетим написао је: Комунизам је историјска
 
 316
 00:24:17,159 --> 00:24:23,200
-of History solved and it knows itself to
-be this solution as markx got older he
+загонетка, која је решена и он је сам
+по себи то решење. Маркс је годинама
 
 317
 00:24:23,200 --> 00:24:28,039
-toned down that kind of mystical talk
-but his historicist conviction and his
+ублажавао ту врсту мистичног говора 
+али његово историјско уверење и његова
 
 318
 00:24:28,039 --> 00:24:33,679
-support for communism remained the fall
-of capitalism and the rise of Communism
+подршка комунизму је остала. Тврдио 
+је да је неизбежан пад капитализма
 
 319
 00:24:33,679 --> 00:24:38,679
-he maintained was inevitable this is an
-end of History kind of argument he's
+и успон комунизма. Ово је као 
+аргумент о крају историје:
 
 320
 00:24:38,679 --> 00:24:43,480
-saying that capitalism is the last form
-of society to feature class conflict and
+Говорио је да је капитализам последњи
+облик друштва која има класну борбу и
 
 321
 00:24:43,480 --> 00:24:48,039
-that communism will be the first Society
-without class conflict which will bring
+да ће комунизам бити прво друштво
+без класне борбе, што ће донети
 
 322
 00:24:48,039 --> 00:24:53,960
-on a new era of History so everything up
-until that to Marks is prehistory I
+ново историјско доба. Дакле све пре
+тога за Маркса је праисторија.
 
 323
 00:24:53,960 --> 00:24:58,600
-think this is a good time to nail down
-what communism is communism is a type of
+Мислим да је добар тренутак да разјаснимо 
+шта је то комунизам. Комунизам је врста
 
 324
 00:24:58,600 --> 00:25:03,799
-socialism so socialism is the broad
-tradition and communism is a specific
+социјализма. Социјализам је шире
+предање, а комунизам је специфична
 
 325
 00:25:03,799 --> 00:25:08,600
-variant of the mainstream types of
-socialism communism is probably the
+варијанта главног типа социјализма.
+Комунизам је највероватније највише
 
 326
 00:25:08,600 --> 00:25:13,240
-furthest to the left it has three main
-features one is the abolition of private
+леви облик социјализма, са три 
+главне карактеристике. Једна је укидање приватне
 
 327
 00:25:13,240 --> 00:25:17,559
-property which is at least any kind of
-property relating to Industry which is
+својине, барем оне приватне својине
+везане за индустрију
 
 328
 00:25:17,559 --> 00:25:21,720
-also called the means of production the
-second feature is its goal it wants to
+која се још назива и средствима
+за производњу. Друга је његов циљ:
 
 329
 00:25:21,720 --> 00:25:27,919
-abolish class distinctions so the goal
-is a society with no class inequality in
+укидање класних разлика, тако да је 
+циљ друштво без класних неједнакости. У
 
 330
 00:25:27,919 --> 00:25:32,399
-Marx's writing the dictatorship of the
-proletariat holds power which is his
+Марксовим списима, власт држи
+диктатура пролетеријата, што је његов
 
 331
 00:25:32,399 --> 00:25:36,240
-term for the Communist working class
-once they take power although he never
+термин за комунистичку радничку класу 
+једном када преузму власт иако никад није
 
 332
 00:25:36,240 --> 00:25:40,000
-clearly articulated what that means or
-what that looks like one important thing
+јасно рекао шта под тим подразумева или
+како ће то да изгледа. Једна битна ствар
 
 333
 00:25:40,000 --> 00:25:43,760
-he did say was to say that the
-dictatorship of the proletariat was to
+коју је рекао је да ће диктатура
+пролетеријата преузети
 
 334
 00:25:43,760 --> 00:25:48,480
-take all capital from the Bourgeois and
-to place all instruments of production
+сав капитал од буржоазије и ставити
+сва средства производње
 
 335
 00:25:48,480 --> 00:25:51,960
-in the hands of the state what's
-supposed to happen from there is a
+у руке државе. Шта би требало
+да се догоди након тога
 
 336
 00:25:51,960 --> 00:25:56,200
-matter of debate Marx saw communism as
-an international movement which would
+је ствар договора. Маркс је видео комунизам
+као међународни покрет који ће
 
 337
 00:25:56,200 --> 00:26:00,799
-transcend nationality and eventually
-sweep the world which led to a history
+превазићи националност и коначно
+обићи свет, што је довело до историје
 
 338
 00:26:00,799 --> 00:26:04,679
-of international aspirations in
-communism and even socialism more
+међународних аспирација у
+комунизму, чак и више у социјализму.
 
 339
 00:26:04,679 --> 00:26:08,399
-broadly but I think it's worth saying
-that this hasn't been consistent in
+Милисм да вреди рећи да
+ово није било доследно у пракси.
 
 340
 00:26:08,399 --> 00:26:12,960
-practice even Marx himself leaned into
-nationalism when times seemed to call
+Чак ни сам Маркс није одолео
+национализму, када је то изгледало
 
 341
 00:26:12,960 --> 00:26:17,039
-for it Marx thought communism would
-develop in stages he thought there'd be
+потребно. Маркс је мислио да ће се комунизам 
+развијати у фазама. Мислио је да ће бити
 
 342
 00:26:17,039 --> 00:26:21,039
-a lower stage where he'd still have
-wealth inequality since people don't
+нижи ниво, где ће и даље постојати 
+неједнакост у богатству, јер људи немају
 
 343
 00:26:21,039 --> 00:26:25,520
-have equal needs or ability to work but
-he seemed to think that in a higher
+једнаке потребе или могућност да
+раде. Али се чинило да верује да ће у вишим
 
 344
 00:26:25,520 --> 00:26:29,679
-stage of communist Society all Goods
-would be publicly owned and wealth
+нивоима комунистичког друштва,
+сва добра бити јавно власништво, а да
 
 345
 00:26:29,679 --> 00:26:34,600
-distinctions and perhaps money itself
-would disappear as he wrote once all the
+ће разлике у богатству, чак и новац, 
+нестати. Као што је написао: Тек када
 
 346
 00:26:34,600 --> 00:26:39,640
-Springs of Cooperative wealth flow more
-abundantly only then can the narrow
+извори заједничког богатства буду
+обилнији, тек тада се може прећи преко
 
 347
 00:26:39,640 --> 00:26:44,440
-Horizon of Bourgeois right be crossed in
-its entirety and Society inscribe on its
+уских буржоаских права у
+њиховој целини и у одређеном  друштву
 
 348
 00:26:44,440 --> 00:26:49,320
-banners from each according to his
-ability to each according to his needs
+поделити, сваком према његовим 
+способностима и према његовим потребама.
 
 349
 00:26:49,320 --> 00:26:52,880
-marks thought in that kind of society
-where the public had control over
+Маркс је веровао да у друштву где
+јавност има контролу над
 
 350
 00:26:52,880 --> 00:26:56,720
-resources people would have more freedom
-to choose what they want to do in their
+ресурсима, људи имају више слободе
+да бирају шта желе да раде.
 
 351
 00:26:56,720 --> 00:27:01,000
-work lives so he thought people wouldn't
-be forced to specialize like they often
+Мислио да људи неће бити приморани 
+да се специјализују, као што то често раде
 
 352
 00:27:01,000 --> 00:27:04,840
-are in capitalist societies he thought
-people would be free to do one thing
+у капиталистичким друштвима. Мислио је да 
+би људи били слободни да данас раде једно,
 
 353
 00:27:04,840 --> 00:27:10,000
-today and another tomorrow to hunt in
-the morning fish in the afternoon rear
+а сутра друго; да лове ујутру,
+пецају поподне, узгајају
 
 354
 00:27:10,000 --> 00:27:14,080
-cattle in the evening or criticize after
-dinner although that last bit was
+стоку увече, или се баве критиком после вечере. 
+Мада је ово последње вероватно била
 
 355
 00:27:14,080 --> 00:27:18,240
-probably a joke on his part markx
-refrained from elaborating much more on
+шала. Маркс се суздржавао
+од даљег објашњавања
 
 356
 00:27:18,240 --> 00:27:21,720
-his vision for communism he said he
-didn't want to write receipts for the
+своје визије комунизма. Рекао је да
+није желео да пише инструкције
 
 357
 00:27:21,720 --> 00:27:25,720
-cook shops of the future he instead
-spent most of his writing criticizing
+за будуће револуцинаре. Уместо тога, 
+већи део свог писања провео је критикујући
 
 358
 00:27:25,720 --> 00:27:30,480
-his competitors and laying out his
-economic theory that we mostly see in
+конкуренте и излажући своју теорију 
+економије, коју највише видимо у
 
 359
 00:27:30,480 --> 00:27:35,640
-capital which he believed proved the
-inevitable fall of capitalism and Rise
+Капиталу, а којом је веровао да доказује 
+неизбежни пад капитализма и успон
 
 360
 00:27:35,640 --> 00:27:41,320
-of Communism as he wrote Capital aimed
-to lay be the economic law of motion of
+комунизма. Као што је написао, Капитал је
+имао за циљ да постави економски закон
 
 361
 00:27:41,320 --> 00:27:45,880
-modern society his theory essentially
-claims that in capitalism business
+модерног друштва. Његова теорија
+суштински тврди да у капитализму
 
 362
 00:27:45,880 --> 00:27:50,000
-owners extract as much profit as they
-possibly can from their workers while
+власници бизниса извуку
+максималан профит од својих радника
 
 363
 00:27:50,000 --> 00:27:54,159
-paying them as little as they can back
-in return the business owners then take
+док их плаћају што мање могу. 
+Власници користе те
 
 364
 00:27:54,159 --> 00:27:58,679
-those profits and use them to expand
-their businesses Buy more machines and
+профите да прошире своје
+бизнисе. Купујући још машина
 
 365
 00:27:58,679 --> 00:28:02,720
-develop technology which further
-develops the material conditions of
+развијајући технологију, коју касније
+користе за развој материјалних услова
 
 366
 00:28:02,720 --> 00:28:06,360
-capitalism as this continues and
-business owners compete with each other
+капитализма. Како овај процес напредује, 
+власници бизниса се међусобно такмиче
 
 367
 00:28:06,360 --> 00:28:10,480
-and push everyone else's wages down as
-Marx described it a few winners would
+смањујући плате свима осталима, 
+као што је Маркс описао неки појединци би
 
 368
 00:28:10,480 --> 00:28:15,320
-emerge and the great masses would be
-pushed down into poverty and subsistence
+испливали, а велике масе би биле 
+потиснуте у сиромаштво и на ивици егзистенције.
 
 369
 00:28:15,320 --> 00:28:20,480
-wages Marx described this as two large
-polls developing on one end you have the
+Маркс је ово описао као две велике теме.
+ На једном крају имамо
 
 370
 00:28:20,480 --> 00:28:23,919
-accumulation of wealth which again was
-supposed to be into fewer and fewer
+нагомилавање богатства што је опет
+требало да буде у све мањем броју
 
 371
 00:28:23,919 --> 00:28:28,919
-hands and on the other end you have an
-accumulation of misery Agony of toil
+а на другом крају имамо
+нагомилавање беде, агонију рада,
 
 372
 00:28:28,919 --> 00:28:34,159
-slavery ignorance brutality mental
-degradation he said that as there was
+ропство, бруталност, менталну
+деградацију. Рекао је да док
 
 373
 00:28:34,159 --> 00:28:38,600
-this growing mass of misery there'd be a
-corresponding growing revolutionary
+расте та несрећна маса, биће
+одговарајући раст револутивног
 
 374
 00:28:38,600 --> 00:28:43,640
-impulse an eventual Revolt of the
-working class as material conditions and
+импулса као крајњи револт радничке 
+класе. Ако би материјални услови и
 
 375
 00:28:43,640 --> 00:28:48,080
-the social conditions that correspond to
-them continued to develop in that manner
+социјални услови који им одговарају, 
+наставили да се развијају на тај начин
 
 376
 00:28:48,080 --> 00:28:52,320
-they eventually outgrow capitalism
-bursting it like a shell once that
+да евентуално надмаше капитализам
+разбили би га у парампарчад. Једном кад
 
 377
 00:28:52,320 --> 00:28:56,600
-happened he thought a revolution would
-occur as he wrote The Nail of capitalist
+се то догоди, мислио је да ће доћи 
+револуција. Као што је написао, одузимање
 
 378
 00:28:56,600 --> 00:29:00,960
-private properties sounds the
-expropriators are expropriated so with
+приватне својине, звучи као да 
+су експропријатори експропријатисани
 
 379
 00:29:00,960 --> 00:29:04,720
-that the die was cast I think that
-aspect of marks has since been
+Мислим да је тај аспект Маркса од тада био
 
 380
 00:29:04,720 --> 00:29:09,679
-downplayed but at the time it was the
-centerpiece of Marxism the question was
+потиснут, али у то време је био главни 
+део марксизма. Питање је било да ли ће се
 
 381
 00:29:09,679 --> 00:29:13,679
-will it happen or won't it happen in the
-decades following Marx's death
+то догодити или се неће догодити. 
+У наредним деценијама након Марксове смрти
 
 382
 00:29:13,679 --> 00:29:17,360
-capitalism seemed to be developing in
-the way that Marx predicted class
+капитализам је изгледао као да се развија 
+на начин на који је Маркс предвидео. Класна
 
 383
 00:29:17,360 --> 00:29:22,039
-Dynamics seemed to be polarizing and
-sharpening Marxist parties sprang up
+динамика је деловала поларизујуће и 
+заоштравајуће. Марксистичке партије су
 
 384
 00:29:22,039 --> 00:29:26,200
-across Europe and the German Socialist
-Party emerged as an international leader
+процветале широм Европе, а Немачка 
+социјалистичка партија се појавила као
 
 385
 00:29:26,200 --> 00:29:30,960
-of socialism and was explicitly Marxist
-it occupied an increasing number of
+међународни лидер социјализма и била 
+је изричито марксистичка. Заузимала је све већи
 
 386
 00:29:30,960 --> 00:29:35,480
-seats in the local state and National
-legislatures controlled immense trade
+број места у локалним, државним и 
+националним законодавним телима.
 
 387
 00:29:35,480 --> 00:29:39,640
-unions and was exceedingly welld
-disciplined and organized acting in the
+Контролисала је огромне синдикате, 
+била дисциплинована и организована, делујући
 
 388
 00:29:39,640 --> 00:29:44,440
-belief that marxian sociology provided
-irrefutable Assurance of its ultimate
+у уверењу да марксистичка социологија 
+пружа необориво уверење  у своју коначну
 
 389
 00:29:44,440 --> 00:29:49,039
-Triumph but in the last decade of the
-19th century ominous contradictions to
+победу. Али у последњој деценији 19. века 
+појављују се забрињавајуће противречности
 
 390
 00:29:49,039 --> 00:29:54,240
-Marxism began to appear capitalism was
-reforming and becoming gentler misery
+марксизму. Капитализам се реформисао 
+и постајао блажи. Незадовољство
 
 391
 00:29:54,240 --> 00:29:58,480
-wasn't increasing it seemed to be
-shrinking wealth was spreading across
+није расло.  Чинило се да се смањује.
+Богатство се ширило међу
 
 392
 00:29:58,480 --> 00:30:02,919
-all classes of society and the working
-class didn't seem to be turning towards
+свим класама друштва и није се
+чинило да се радничка класа окреће ка
 
 393
 00:30:02,919 --> 00:30:07,039
-communism marxists were faced with a
-choice stick with the position that Marx
+комунизму. Марксисти су се суочавали 
+са избором- држати се става да је Маркс
 
 394
 00:30:07,039 --> 00:30:11,760
-was right which was the Orthodox Marxist
-position or say that at least in some
+био у праву, што је став правих 
+марксиста, или бар рећи да у неким
 
 395
 00:30:11,760 --> 00:30:15,880
-aspects he was wrong which implies
-diversifying your sources of belief the
+аспектима није био у праву, што 
+подразумева преиначавање извора веровања.
 
 396
 00:30:15,880 --> 00:30:19,760
-person who came to embody the latter
-position was a man named Edward
+Особа која је постала отелотворење 
+другог става, био је човек по имену Едуард
 
 397
 00:30:19,760 --> 00:30:24,360
-Bernstein Bernstein was a highly
-regarded Marxist he was mentored by
+Бернштајн. Бернштајн је био високо
+цењени марксиста. Учио је од
 
 398
 00:30:24,360 --> 00:30:29,080
-Marx's collaborator frederck angles he
-was even asked by Engles to produce a
+Марксовог сарадника, Фридриха Енгелса. 
+Чак га је Енгелс замолио да напише нови том
 
 399
 00:30:29,080 --> 00:30:33,679
-new volume of capital based on Marx's
-notes But as time went on these Trends
+Капитала, на основу Марксових белешки. 
+Али како је време пролазило ове тенденције
 
 400
 00:30:33,679 --> 00:30:37,919
-troubled Bernstein and they reached a
-point where he couldn't reconcile them
+су узнемиравале Бернштајна и довеле су 
+га до тачке где није више могао да их помири
 
 401
 00:30:37,919 --> 00:30:41,720
-with his commitment to Marx anymore he
-wrote a book called evolutionary
+са својим залагањем за Маркса.
+Написао је књигу под називом
 
 402
 00:30:41,720 --> 00:30:46,320
-socialism as an extended critique on
-Marx that brought about a split in
+"Еволутивни социјализам" као продужену 
+критику Маркса, што је изазвало поделе у
 
 403
 00:30:46,320 --> 00:30:51,399
-socialism that Still Remains to this day
-marxists at the time gave Bernstein's
+социјализму, које су и дан данас присутне.
+Марксисти су тада Бернштајнове ставове
 
 404
 00:30:51,399 --> 00:30:56,399
-views a name revisionism to show that
-the historical Trend that Marx predicted
+назвали ревизионизмом, како би показали 
+да се историјски тренд који је Маркс предвидео
 
 405
 00:30:56,399 --> 00:31:00,559
-wasn't occurring Bernstein checked
-certain statements in capital against
+није остваривао. Бернштајн је проверио 
+одређене изјаве из Капитала и упоредио
 
 406
 00:31:00,559 --> 00:31:04,799
-modern evidence like tax receipts and
-concludes that it is quite wrong to
+са савременим доказима попут пореских 
+прихода и закључио да је потпуно погрешно
 
 407
 00:31:04,799 --> 00:31:09,880
-assume that the present development of
-society shows a relative or indeed
+претпоставити да савремени развој 
+друштва показује релативно или чак апсолутно
 
 408
 00:31:09,880 --> 00:31:14,240
-absolute diminution of the number of the
-members of the possessing classes their
+смањење броја чланова власничких класа.
 
 409
 00:31:14,240 --> 00:31:18,639
-number increases both relatively and
-absolutely if you just looked at what
+Њихов број се повећава како релативно
+ тако и апсолутно. Ако се само погледа
 
 410
 00:31:18,639 --> 00:31:24,000
-was happening in society he argued
-Improvement was unmistakable Society was
+шта се дешава у друштву, он је тврдио 
+да је побољшање неоспорно. Друштво се
 
 411
 00:31:24,000 --> 00:31:28,679
-transforming in a Humane Direction which
-signifies not hopelessness but
+трансформише у хуманом правцу 
+што не указује на безнадежност, већ
 
 412
 00:31:28,679 --> 00:31:32,320
-capability of improvement in the
-condition of the worker he said it is
+на могућност побољшања
+ услова радника. Рекао је
 
 413
 00:31:32,320 --> 00:31:36,600
-not only useless it is the greatest
-Folly to attempt to conceal this from
+да то није само бескорисно, већ и
+највећа лудост покушати сакрити од
 
 414
 00:31:36,600 --> 00:31:41,279
-ourselves he also broke from Marx as a
-theorist for example by saying that his
+нас самих. Такође се дистанцирао од 
+Маркса као теоретичара, тврдећи да Марксова
 
 415
 00:31:41,279 --> 00:31:45,480
-framing wasn't pluralistic it doesn't
-make sense to speak of workers as a
+структура није била плуралистичка. 
+Нема смисла говорити о радницима  као хомогеној
 
 416
 00:31:45,480 --> 00:31:50,440
-homogeneous mass and he criticized
-traditional socialist goals he called
+маси и критиковао је традиционалне 
+социјалистичке циљеве. Назвао их је
 
 417
 00:31:50,440 --> 00:31:54,559
-the experiments that had been done with
-Collective societies until then sad
+експериментима који су изведени са 
+колективним друштвима, тужним
 
 418
 00:31:54,559 --> 00:31:58,960
-experiences that were causing people in
-socialist circles to turn their backs
+искуствима, која су узроковала да људи 
+у социјалистичким круговима окрећу леђа
 
 419
 00:31:58,960 --> 00:32:02,919
-more and more on the whole Cooperative
-movement he even called Central planning
+све више целом кооперативном покрету. 
+Он је чак апсурдним назвао централно
 
 420
 00:32:02,919 --> 00:32:06,760
-absurd he calculated how much work it
-might take for a government to direct an
+планирање. Рачунао је колико је 
+посла потребно да би влада усмерила
 
 421
 00:32:06,760 --> 00:32:11,480
-economy in an advanced European country
-and concluded what abundance of judgment
+економију у развијеној Европској 
+земљи и закључио какво обиље расуђивања
 
 422
 00:32:11,480 --> 00:32:15,200
-practical knowledge talent for
-administration must a government or a
+практичног знања, талента за
+администрацију мора имати влада или
 
 423
 00:32:15,200 --> 00:32:19,120
-National Assembly have at its disposal
-to be even equal to the Supreme
+Национална скупштина на располагању
+да би били чак и једнаки врховном
 
 424
 00:32:19,120 --> 00:32:23,720
-Management or managing control of such a
-gigantic organism in the meantime he
+управљању или контролисању овако 
+гигантског организма. У међувремену, он
 
 425
 00:32:23,720 --> 00:32:27,480
-argued that socialists were actually
-making progress by working
+је тврдио да социјалисти заиста
+праве напредак радећи
 
 426
 00:32:27,480 --> 00:32:31,840
-democratically within the system in all
-advanced countries he said we see the
+демократски унутар система. 
+У свим развијеним земљама видимо
 
 427
 00:32:31,840 --> 00:32:36,919
-Privileges of the capitalist Bourgeois
-yielding step-by step to democratic
+привилегије капиталистичке буржоазије. 
+Корак по корак одступају од демократских
 
 428
 00:32:36,919 --> 00:32:41,039
-organizations as a result he said
-socialists in those countries are no
+организација. Као резултат рекао је 
+да социјалисти у овим земљама више не
 
 429
 00:32:41,039 --> 00:32:44,960
-longer dreaming of an imminent victory
-for socialism by means of a violent
+сањају о неизбежној победи
+социјализма путем насилне револуције
 
 430
 00:32:44,960 --> 00:32:49,440
-revolution and instead they rely more
-and more on work in the municipalities
+и уместо тога се више и више
+ослањају на посао у општинама
 
 431
 00:32:49,440 --> 00:32:54,639
-and other self-governing bodies then he
-reframes the goal of socialism he says
+и другим самоуправним телима. Затим је 
+преформулисао циљ социјализма, говорећи:
 
 432
 00:32:54,639 --> 00:32:59,679
-to me that which is generally called the
-the ultimate aim of socialism is nothing
+Мени, нешто што се назива општим 
+циљем социјализма не значи ништа,
 
 433
 00:32:59,679 --> 00:33:04,320
-but the movement is everything this is
-now I believe the most highly regarded
+али Покрет је све. Ово је сада
+верујем највише поштована
 
 434
 00:33:04,320 --> 00:33:09,159
-mission statement we have for Democratic
-socialism the idea of achieving
+изјава мисије коју имамо за
+демократски социјализам. Идеја да се
 
 435
 00:33:09,159 --> 00:33:13,799
-socialism by gradual reforms surfaced
-during Marx's time which was led by
+социјализам постигне реформама појавила 
+се за време Марксовог живота, а следио ју је
 
 436
 00:33:13,799 --> 00:33:17,799
-Ferdinand Lal but Marx found it
-unsettling and he wrote a letter
+Фердинанд Ласал али Маркс је
+мислио да је узнемирујућа и написао је писмо
 
 437
 00:33:17,799 --> 00:33:22,559
-denouncing it he said as far as we are
-concerned there is only one way open for
+којим је осудио ту идеју. Рекао је што
+се нас тиче постоји само један начин;
 
 438
 00:33:22,559 --> 00:33:27,000
-almost 40 years now we have emphasized
-the class struggle as the fundamental d
+скоро 40 година смо наглашавали
+класну борбу као кључну
 
 439
 00:33:27,000 --> 00:33:31,240
-driving force of history and especially
-the class struggle between Bourgeois and
+покретачку снагу историје, посебно
+класну борбу између буржоазије и
 
 440
 00:33:31,240 --> 00:33:36,039
-proletariat as the great lever of modern
-social upheaval it is impossible for us
+пролетеријата као велику полугу за 
+модерне друштвене промене. Немогуће је за нас
 
 441
 00:33:36,039 --> 00:33:39,399
-будемо са људима који желе да 
-избаце из покрета ову класну борбу.
+да идемо заједно са људима који 
+желе уклонити ову класну борбу из
 
 442
 00:33:39,399 --> 00:33:44,159
-Православни марксисти су тако
-поразили Ласала. Такође, вредно је
+покрета. Па прави марксисти 
+завршавају поражени. Такође је вероватно важно
 
 443
 00:33:44,159 --> 00:33:47,679
-напоменути да је постојала социјалистичка
+рећи да је постојала социјалистичка
 градуалистичка организација активна у
 
 444
